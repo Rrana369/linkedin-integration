@@ -1,0 +1,94 @@
+[08-Jun-2018 04:32:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:32:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:32:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:32:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:37:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:37:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:37:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:37:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:37:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:37:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:37:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:37:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:38:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:38:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:38:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:38:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:38:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:38:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:39:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:40:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:40:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:41:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:41:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:47:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:47:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:54:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:54:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:54:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:54:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:55:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:55:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 04:55:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 04:55:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 05:26:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 05:26:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 05:26:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 05:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 05:29:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_se7e09hbx9'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 05:29:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 05:29:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_se7e09hbx9'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 05:29:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 15:54:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_se7e09hbx9'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 15:54:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[08-Jun-2018 15:54:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cpses_se7e09hbx9'@'localhost' (using password: NO) in /home1/seenonth/public_html/resume/index.php on line 3
+[08-Jun-2018 15:54:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/seenonth/public_html/resume/index.php on line 6
+[17-Jun-2018 05:53:35 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('PK\x03\x04\x14\x00\x06\x00\x08\x00\x00\x00!\x00m...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('PK\x03\x04\x14\x00\x06\x00\x08\x00\x00\x00!\x00m...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1529214815M...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
+[14-Jul-2018 18:59:10 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1\x00\x00\x00\x00\x00\x00\x00...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1\x00\x00\x00\x00\x00\x00\x00...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1531594750r...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
+[14-Jul-2018 18:59:51 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1\x00\x00\x00\x00\x00\x00\x00...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1\x00\x00\x00\x00\x00\x00\x00...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1531594791r...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
+[24-Aug-2018 05:01:14 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('PK\x03\x04\x14\x00\x06\x00\x08\x00\x00\x00!\x00\xF0...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('PK\x03\x04\x14\x00\x06\x00\x08\x00\x00\x00!\x00\xF0...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1535086874S...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
+[24-Aug-2018 05:01:28 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1535086888J...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
+[24-Aug-2018 05:01:51 UTC] PHP Fatal error:  Uncaught Exception: TCPDF_PARSER ERROR: Invalid PDF data: missing %PDF header. in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php:807
+Stack trace:
+#0 /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php(108): TCPDF_PARSER->Error('Invalid PDF dat...')
+#1 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(88): TCPDF_PARSER->__construct('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#2 /home1/seenonth/public_html/resume/src/vendor/smalot/pdfparser/src/Smalot/PdfParser/Parser.php(74): Smalot\PdfParser\Parser->parseContent('PK\x03\x04\n\x00\x00\x00\x00\x00\x87N\xE2@\x00...')
+#3 /home1/seenonth/public_html/resume/ajax.php(22): Smalot\PdfParser\Parser->parseFile('pdf/1535086911J...')
+#4 {main}
+  thrown in /home1/seenonth/public_html/resume/src/vendor/tecnickcom/tcpdf/tcpdf_parser.php on line 807
